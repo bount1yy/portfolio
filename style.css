@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+body {
+background-color:#62B1D0;
+}
+header {
+background-color:#FFD773;
+}
+h1 {
+text-align:center;
+color:#FF2C00;
+}
+.link-nav {
+opacity:0.5;
+}
+.link-nav:hover {
+opacity:1
+}
+.razmet {
+opacity:0.5;
+}
+.razmet:hover {
+opacity:1
+}
+
